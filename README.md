@@ -6,3 +6,5 @@ turtorial repogitory
 さらに、SourceTreeをインストール後にもう少し編集する
 
 2020/06/16 更新
+
+2020/06/16 2　更新
